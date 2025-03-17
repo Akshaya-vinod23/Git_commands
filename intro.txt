@@ -19,3 +19,11 @@ git add.intro.txt >>> intro.txt added to the staging area
 git add.      >> all files added to the staging area
 
 git commit -m "my first commit"
+
+creating new branch >> git branch newbranch
+
+git swithch newbranch
+
+git pull
+
+
