@@ -20,10 +20,14 @@ git add.      >> all files added to the staging area
 
 git commit -m "my first commit"
 
+
+git remote add origin <url>
+
 creating new branch >> git branch newbranch
 
 git swithch newbranch
 
 git pull
+
 
 
